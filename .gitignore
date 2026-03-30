@@ -1,0 +1,2 @@
+sql/olap/*.sql
+sql/oltp/*.sql
