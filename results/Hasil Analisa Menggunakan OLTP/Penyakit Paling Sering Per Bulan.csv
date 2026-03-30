@@ -1,0 +1,436 @@
+bulan,nama_penyakit,jumlah_kasus
+1,Abnormal posture,1
+1,Acute lymphadenitis of trunk,1
+1,Acute tonsillitis due to other specified organisms,1
+1,"Ankylosing spondylitis, site unspecified",1
+1,"Arthritis, unspecified, multiple sites",1
+1,"Arthrosis, unspecified, shoulder region",1
+1,Candidiasis of other sites,1
+1,"Congenital malformation of peripheral vascular system, unspecified",1
+1,Extravasation of urine,1
+1,Fracture of symphysis of body,1
+1,Gonococcal peritonitis (A54.8+),1
+1,Infantile hemiplegia,1
+1,Injury of colon,1
+1,Injury of flexor muscle and tendon of other finger at wrist and hand level,1
+1,"Internal derangement of knee, unspecified",1
+1,"Lymphangioma, any site",1
+1,Malignant neoplasm of bones of skull and face,1
+1,"Malignant neoplasm of connective and soft tissue of upper limb, including shoulder",1
+1,"Myeloid leukaemia, unspecified",1
+1,Nonspecific urethritis,1
+1,Other amnesia,1
+1,Other contraceptive management,1
+1,Other disorders following mastoidectomy,1
+1,Other shoulder lesions,1
+1,Other specified inflammation of eyelid,1
+1,Otitis media in other diseases classified elsewhere,1
+1,"Pyogenic arthritis, unspecified, lower leg",1
+1,"Rheumatoid arthritis, unspecified, forearm",1
+1,Sacral spina bifida without hydrocephalus,1
+1,"Schizoaffective disorder, depressive type",1
+1,"Strabismus, unspecified",1
+1,Thoracic spina bifida with hydrocephalus,1
+1,Type 1 diabetes mellitus with other specified renal complication,1
+1,UNSPEC.DISOR.OF PSYCHOLO.DEVE.,1
+1,Unspecified adverse effect of drug or medicament,1
+1,"Unspecified diabetes mellitus, with ketoacidosis",1
+2,Achondroplasia,1
+2,Benign neoplasm of aortic body and other paraganglia,1
+2,Candidiasis,1
+2,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",1
+2,Chronic anal fissure,1
+2,Complete uterovaginal prolapse,1
+2,Congenital absence and aplasia of penis,1
+2,"Congenital malformation of brain, unspecified",1
+2,Deformity of orbit,1
+2,"Disorder of external ear, unspecified",1
+2,"Disorder of lipoprotein metabolism, unspecified",1
+2,Disorders of accommodation,1
+2,Fracture of tooth,1
+2,Genetic anomalies of leukocytes,1
+2,"Gout, unspecified, multiple sites",1
+2,Hereditary choroidal dystrophy,1
+2,Hyperchylomicronaemia,1
+2,Incomplete and partial hydatidiform mole,1
+2,Injury of femoral vein at hip and thigh level,1
+2,Injury of muscle and tendon of other parts of biceps,1
+2,"Irritant contact dermatitis, unspecified cause",1
+2,"Malignant neoplasm of skin of eyelid, including canthus",1
+2,Maternal care for (suspected) central nervous system malformation in fetus,1
+2,Multiple fractures of metacarpal bones,1
+2,Neoplasm of uncertain or unknown behaviour of larynx,1
+2,"Nutritional deficiency, unspecified",1
+2,Other and unspecified skin changes,1
+2,Other depressive episodes,1
+2,Other keratitis,1
+2,Panniculitis affecting regions of neck and back,1
+2,Secondary parkinsonism due to other external agents,1
+2,Solitary plasmacytoma,1
+2,"Type 2 diabetes mellitus with ketoacidosis, without coma",1
+2,Ulcerative (chronic) rectosigmoiditis,1
+2,"Unspecified diabetes mellitus, with coma",1
+3,Acute gastroenteropathy due to Norwalk agent,1
+3,ACUTE POSTHAEMORRHAGIC ANAEMIA,1
+3,AGRANULOCYTOSIS,1
+3,Cold injury syndrome,1
+3,Congenital cerebral cysts,1
+3,Congenital single renal cyst,1
+3,"Contact with venomous snakes and lizards, Home",1
+3,Contusion of external genital organs,1
+3,Embolism and thrombosis of unspecified artery,1
+3,Fracture of lumbar spine and pelvis,1
+3,Fused toes,1
+3,"Gastric ulcer, chronic or unspecified with both haemorrhage and perforation",1
+3,Injury of bladder,1
+3,"Low back pain, multiple sites",1
+3,Necrotizing fasciitis,1
+3,Neonatal infective mastitis,1
+3,Other bursal cyst,1
+3,Other chorioretinal disorders in diseases classified elsewhere,1
+3,Other congenital malformations of testis and scrotum,1
+3,"Other dorsalgia, lumbosacral region",1
+3,Other mucopolysaccharidoses,1
+3,Pain in throat and chest,1
+3,Personal history of long-term (current) use of other medicaments,1
+3,Pneumonia due to other aerobic Gram-negative bacteria,1
+3,Polyarthrosis,1
+3,"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium",1
+3,PRE-EXISTING HYPERTENSIVE  DIS,1
+3,"Sprain and strain of wrist, part unspecified",1
+3,Supervision of normal first pregnancy,1
+3,Systemic bartonellosis,1
+3,"Unspecified scoliosis, thoracolumbar region",1
+4,Abrasion of unspecified body region,1
+4,Acute periodontitis,1
+4,Amoebic lung abscess (J99.8*),1
+4,Anencephaly,1
+4,"Benign neoplasm of pharynx, unspecified",1
+4,Chronic sinusitis,1
+4,Compression of brain,1
+4,"Condition of integument specific to fetus and newborn, unspecified",1
+4,"Congenital deformity of feet, unspecified",1
+4,Constitutional tall stature,1
+4,Corneal pigmentations and deposits,1
+4,"Crohn's disease, unspecified",1
+4,Dermatitis due to unspecified substance taken internally,1
+4,"Disorder of central nervous system, unspecified",1
+4,Fitting and adjustment of other external prosthetic devices,1
+4,Gestational oedema,1
+4,Granuloma annulare,1
+4,Influenza due to identified avian infliuenza virus,1
+4,Injury of small intestine,1
+4,Leukaemia of unspecified cell type,1
+4,"Malignant neoplasm of heart, mediastinum and pleura",1
+4,Malignant neoplasm of testis,1
+4,"Mental and behavioural disorders due to use of alcohol, acute intoxication",1
+4,"Multiple fractures of foot, open",1
+4,Neonatal coma,1
+4,Neurofibromatosis (nonmalignant),1
+4,Other disorders of lacrimal system,1
+4,Other low birth weight 1000 - 1249g,1
+4,Phosphorus and its compounds,1
+4,Pica of infancy and childhood,1
+4,Rectal abscess,1
+4,"Syndactyly, unspecified",1
+4,"Tuberculosis of spine, lumbar region (A18.0+)",1
+4,Type 2 diabetes mellitus with multiple microvascular complications,1
+4,Unspecified injury of neck,1
+5,Acquired haemolytic anaemia,1
+5,Benign neoplasm of bone and articular cartilage,1
+5,Bronchopulmonary dysplasia originating in the perinatal period,1
+5,Delayed and secondary postpartum haemorrhage,1
+5,Dilated cardiomyopathy,1
+5,Erythema multiforme,1
+5,Foreign body in respiratory tract,1
+5,"Fracture of lower leg, part unspecified, closed",1
+5,Lumbar spina bifida without hydrocephalus,1
+5,Maternal hypotension syndrome,1
+5,Measles with other complications,1
+5,Melanocytic naevi,1
+5,Other and unspecified abnormalities of heart beat,1
+5,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",1
+5,Other pulmonary aspergillosis,1
+5,"Other specified diabetes mellitus, with ophthalmic complications",1
+5,Other vitamin deficiencies,1
+5,Paratyphoid fever C,1
+5,Person consulting for explanation of investigation findings,1
+5,Postmenopausal atrophic vaginitis,1
+5,Stuttering [stammering],1
+5,Trigeminal neuralgia,1
+5,Urethral abscess,1
+5,Vascular dementia,1
+5,"Venous complication in pregnancy, unspecified",1
+5,Viral pharyngoconjunctivitis,1
+6,"Benign neoplasm of central nervous system, unspecified",1
+6,"Cardiovascular disease, unspecified",1
+6,Central retinal artery occlusion,1
+6,Clubbing of fingers,1
+6,Disorders of gallbladder and biliary tract in diseases classified elsewhere,1
+6,Disorders of visual cortex,1
+6,Fetus and newborn affected by surgical procedure on mother,1
+6,"Follicular non-hodgkin's lymphoma, unspecified",1
+6,Insect bite of wrist and hand,1
+6,"Myoneural disorder, unspecified",1
+6,Open wound of ankle and foot,1
+6,Open wound of penis,1
+6,"Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, childbirth and the puerperium",1
+6,Other female pelvic inflammatory diseases,1
+6,Other myeloid leukaemia,1
+6,Pedal cyclist injured in collision with pedestrian or animal: Unspecified pedal cyclist injured in traffic accident,1
+6,"Singleton, born outside hospital",1
+6,"Twin, born in hospital",1
+6,"Viral intestinal infection, unspecified",1
+7,Attention to surgical dressings and sutures,1
+7,Breast engorgement of newborn,1
+7,"Care involving use of rehabilitation procedure, unspecified",1
+7,"Cervical disc disorder, unspecified",1
+7,Contusion of toe(s) with damage to nail,1
+7,"Developmental disorder of scholastic skills, unspecified",1
+7,"Dislocation, sprain and strain of joints and ligaments of knee",1
+7,"Disorders of teeth and supporting structures, unspecified",1
+7,"Fracture of great toe, closed",1
+7,"Fracture of lower end of femur, closed",1
+7,Gingival enlargement,1
+7,Gonococcal infection,1
+7,"Human immunodeficiency [HIV] disease complicating pregnancy, childbirth and the puerperium",1
+7,Long labour,1
+7,Maternal care for other abnormalities of cervix,1
+7,Maternal care for other abnormalities of gravid uterus,1
+7,"Muscle strain, pelvic region and thigh",1
+7,Neonatal jaundice from breast milk inhibitor,1
+7,"Neuralgia and neuritis, unspecified, hand",1
+7,Organic anxiety disorder,1
+7,"Other congenital anaemias, not elsewhere classified",1
+7,Other congenital malformations of male genital organs,1
+7,Other inflammation of eyelid,1
+7,Other interstitial pulmonary diseases with fibrosis,1
+7,Other open wounds of ankle and foot,1
+7,Other specified disorders of ear,1
+7,Other specified orthopaedic follow-up care,1
+7,Other superficial injuries of shoulder and upper arm,1
+7,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",1
+7,Sequelae of cerebrovascular disease,1
+7,"Special examination, unspecified",1
+7,"Special screening examination for neoplasm, unspecified",1
+7,Toxic effect of unspecified seafood,1
+8,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances,1
+8,Benign neoplasm of extrahepatic bile ducts,1
+8,"Benign neoplasm of respiratory system, unspecified",1
+8,"Congenital malformation of male genital organ, unspecified",1
+8,Congenital non-neoplastic naevus,1
+8,"Congenital syphilis, unspecified",1
+8,"Deficiency of nutrient element, unspecified",1
+8,Haemolytic-uraemic syndrome,1
+8,Injury of muscle and tendon at wrist and hand level,1
+8,Injury of unspecified body region,1
+8,Labour and delivery complicated by fetal stress [distress],1
+8,"Malignant neoplasm of connective and soft tissue of head, face and neck",1
+8,"Malunion of fracture, pelvic region and thigh",1
+8,"Manic episode, unspecified",1
+8,Microphthalmos,1
+8,Miliaria profunda,1
+8,Moderate cervical dysplasia,1
+8,NUTRITIONAL AND METABOLIC DIS.,1
+8,Olecranon bursitis,1
+8,Open wound of scalp,1
+8,Other abscess of pharynx,1
+8,Other and unspecified lesions of oral mucosa,1
+8,Other apnoea of newborn,1
+8,Other congenital functional disorders of colon,1
+8,Other specified conditions associated with female genital organs and menstrual cycle,1
+8,Other specified diabetes mellitus with hypoglycaemia,1
+8,Other specified injuries of head,1
+8,"Plasmodium falciparum malaria, unspecified",1
+8,"Pneumonia due to streptococcus, group B",1
+8,Primary genital syphilis,1
+8,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",1
+8,Pulmonary mucormycosis,1
+8,"Respiratory failure, not elsewhere classified",1
+8,Stupor,1
+8,Suppurative and unspecified otitis media,1
+8,Toxic effect of contact with venomous animals,1
+8,Traumatic amputation of unspecified part of head,1
+8,Viral and other specified intestinal infections,1
+9,Abnormal involuntary movements,1
+9,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",1
+9,Anorexia nervosa,1
+9,Autoimmune polyglandular failure,1
+9,Benign neoplasm of rectum,1
+9,Birth injury to scalp,1
+9,"Birth injury to scalp, unspecified",1
+9,Congenital stenosis and stricture of lacrimal duct,1
+9,Dermatitis due to ingested food,1
+9,Double outlet right ventricle,1
+9,Duration of pregnancy 34-<37 completed weeks,1
+9,Erythema infectiosum [fifth disease],1
+9,"Fracture of shoulder girdle, part unspecified",1
+9,Hypertrophy of (infrapatellar) fat pad,1
+9,"Indeterminate sex, unspecified",1
+9,Intraductal carcinoma in situ of breast,1
+9,Malignant neoplasm of connective and soft tissue of thorax,1
+9,Malignant neoplasm of nipple and areola,1
+9,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified",1
+9,Organic hallucinosis,1
+9,Osteitis condensans,1
+9,Other metabolic disorders,1
+9,Other specified conditions of integument specific to fetus and newborn,1
+9,Personal history of certain other diseases,1
+9,Personal history of other medical treatment,1
+9,Portal hypertension,1
+9,Progressive external ophthalmoplegia,1
+9,Prolapsed urethral mucosa,1
+9,"Residual foreign body in soft tissue, multiple sites",1
+9,Sleep apnoea,1
+9,"Staphylococcal infection, unspecified",1
+9,Traumatic rupture of ligament of finger at metacarpophalangeal and interphalangeal joint(s),1
+9,Unspecified abdominal hernia without obstruction or gangrene,1
+10,Abnormality of albumin,1
+10,Allergic rhinitis due to pollen,1
+10,Amoebic liver abscess,1
+10,"Ankylosis of joint, lower leg",1
+10,Anorectal fistula,1
+10,Atrophy of salivary gland,1
+10,"Benign neoplasm of brain , supratentorial",1
+10,Calculus of prostate,1
+10,"Caught, crushed, jammed or pinched in or between objects",1
+10,Cerebellar stroke syndrome (I60-I67+),1
+10,"Cholera, unspecified",1
+10,Diffuse brain injury,1
+10,"Disorder of brain, unspecified",1
+10,"Dysplasia of cervix uteri, unspecified",1
+10,Embolism and thrombosis of arteries of upper extremities,1
+10,"Epilepsy, unspecified, with intractable epilepsy",1
+10,Examination for period of rapid growth in childhood,1
+10,Fracture of coccyx,1
+10,"Fracture of navicular [scaphoid] bone of hand , closed",1
+10,Gonococcal infection of musculoskeletal system,1
+10,Haemorrhage in early pregnancy,1
+10,"Influenza, virus not identified",1
+10,Intermediate hyperglycaemia with neurological complication,1
+10,Intracerebral haemorrhage in cerebellum,1
+10,"Juvenile rheumatoid arthritis, lower leg",1
+10,Lymphangitis,1
+10,Malignant neoplasm of other and unspecified major salivary glands,1
+10,Muscular dystrophy,1
+10,Neonatal diabetes mellitus,1
+10,Neoplasm of uncertain or unknown behaviour of adrenal gland,1
+10,Noninfective neonatal diarrhoea,1
+10,"Other bacterial foodborne intoxications, not elsewhere classified",1
+10,Other difficulties with micturition,1
+10,Other infestations,1
+10,"Other intracranial injuries, without open intracranial wound",1
+10,Other pneumothorax,1
+10,Other specified disorders of brain in diseases classified elsewhere,1
+10,Other specified inflammation of vagina and vulva,1
+10,Other urticaria,1
+10,"Post-traumatic hydrocephalus, unspecified",1
+10,Pre-excitation syndrome,1
+10,Pyothorax,1
+10,"Rapidly progressive nephritic syndrome, other",1
+10,"Residual foreign body in soft tissue, ankle and foot",1
+10,Retinoschisis and retinal cysts,1
+10,"Rupture of bladder, nontraumatic",1
+10,"Sciatica, site unspecified",1
+10,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck",1
+10,Secondary malignant neoplasm of bone and bone marrow,1
+10,Symptoms and signs involving emotional state,1
+10,Tinea manuum,1
+10,Toxic effect of contact with unspecified venomous animal,1
+10,TRICHINELLOSIS,1
+10,"Trisomy 21, meiotic nondisjunction",1
+10,"Unspecified nephritic syndrome, other",1
+10,Volvulus,1
+10,Wheezing,1
+11,"Achondrogenesis, unspecified",1
+11,"Calcaneal spur, multiple sites",1
+11,"Contusion of lower limb, level unspecified",1
+11,"Disease of upper respiratory tract, unspecified",1
+11,Foreign body in mouth,1
+11,Fracture of unspecified body region,1
+11,GRANULOMA INGUINALE,1
+11,Heat syncope,1
+11,Ischaemic infarction of muscle,1
+11,"Labour and delivery complicated by cord complication, unspecified",1
+11,Malignant neoplasm of other connective and soft tissue,1
+11,"Malignant neoplasm of ribs, sternum and clavicle",1
+11,Malignant neoplasm of superior wall of nasopharynx,1
+11,MALNUTRITION IN PREGNANCY,1
+11,Maternal care for disproportion of mixed maternal and fetal origin,1
+11,Maternal care for other abnormalities of pelvic organs,1
+11,Maternal distress during labour and delivery,1
+11,"Multiple fractures of metacarpal bones, closed",1
+11,"Myopathy, unspecified",1
+11,Neoplasm of uncertain or unknown behaviour of other respiratory organs,1
+11,Organic mood [affective] disorders,1
+11,Other childhood disorders of social functioning,1
+11,Other myopathies,1
+11,"Other respiratory tuberculosis, confirmed bacteriologically and histologically",1
+11,Other specific personality disorders,1
+11,Other symptoms and signs involving emotional state,1
+11,"Pain in a joint, pelvic region and thigh",1
+11,Perifolliculitis capitis abscedens,1
+11,"Pregnancy-related condition, unspecified",1
+11,"Rheumatoid bursitis, multiple sites",1
+11,Seborrhoea capitis,1
+11,Seborrhoeic dermatitis,1
+11,"Spondylolisthesis, multiple sites in spine",1
+11,Sprain and strain of medial collateral ligament,1
+11,Sprain and strain of other specified sites of hip,1
+11,Sprain and strain of ulna collateral ligament,1
+11,Superficial injury of thorax,1
+11,Surgical operation with implant of artificial internal device,1
+11,Third degree perineal laceration during delivery,1
+11,Traumatic arthropathy,1
+11,"Unilateral or unspecified inguinal hernia, with obstruction, without gangrene, not specified as recurrent",1
+11,"Unspecified deforming dorsopathy, cervical region",1
+11,Vesical tenesmus,1
+11,Vomiting in newborn,1
+11,Vulvar cyst,1
+12,Achondrogenesis,1
+12,Burn of third degree of head and neck,1
+12,"Cerebrovascular disease, unspecified",1
+12,"Cervicocranial syndrome, occipito-atlanto-axial region",1
+12,"Chronic instability, medial collateral ligament or other and unspecified medial meniscus",1
+12,"Chronic instability, posterior cruciate ligament or posterior horn of medial meniscus",1
+12,"Coagulation defect, unspecified",1
+12,Congenital cyanotic heart disease,1
+12,Derangement of other and unspecified lateral meniscus due to old tear or injury,1
+12,Dislocation of midtarsal (joint),1
+12,Drug-induced tics and other tics of organic origin,1
+12,Dyslexia and alexia,1
+12,"Eccrine sweat disorder, unspecified",1
+12,External haemorrhoids without complication,1
+12,"Fracture of calcaneus, open",1
+12,"Fracture of lower end of humerus, open",1
+12,"Fracture of malar and maxillary bones, closed",1
+12,"Fracture of shaft of radius, open",1
+12,"Ganglion, hand",1
+12,"Gastroduodenitis, unspecified",1
+12,"Gender identity disorder, unspecified",1
+12,"Gout, unspecified, site unspecified",1
+12,"Interstitial pulmonary disease, unspecified",1
+12,"Juvenile arthritis with systemic onset, site unspecified",1
+12,"Juvenile osteochondrosis of tibia and fibula, shoulder region",1
+12,Lack of adequate food,1
+12,Malignant neoplasm of ileum,1
+12,Monoplegia of lower limb,1
+12,Monoplegia of upper limb,1
+12,Mumps with other complications,1
+12,Nontoxic multinodular goitre,1
+12,NYSTAGMUS &amp; OTHER IRREGULAR E.,1
+12,Open wound of ankle,1
+12,OTHER &amp; UNSPEC.INFECTIOUS DIS.,1
+12,Other bacterial infections of unspecified site,1
+12,Other diseases of anus and rectum,1
+12,Other hypothyroidism,1
+12,"Other specified diabetes mellitus, without complications",1
+12,Other specified disorders of bone density and structure,1
+12,Other specified disorders of iris and ciliary body,1
+12,Other specified protozoal intestinal diseases,1
+12,Pulmonary valve atresia,1
+12,Secondary dysmenorrhoea,1
+12,Spastic tetraplegia,1
+12,Sprain and strain of lateral collateral ligament,1
+12,"Supervision of high-risk pregnancy, unspecified",1
+12,Supervision of pregnancy with history of insufficient antenatal care,1

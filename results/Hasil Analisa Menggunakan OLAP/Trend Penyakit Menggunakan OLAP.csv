@@ -1,0 +1,21 @@
+kelompok_umur,nama_penyakit,jumlah_kasus
+0-17,Generalised idiopathic epilepsy and epileptic syndromes,297
+0-17,"Burns of multiple regions, no more than second degree burns mentioned",198
+0-17,Gingivitis and periodontal diseases,198
+0-17,Pustulosis palmaris et plantaris,132
+0-17,Syndrome of infant of a diabetic mother,132
+18-40,Flaccid hemiplegia,264
+18-40,Unspecified haemorrhoids with other complications,264
+18-40,Gingivitis and periodontal diseases,198
+18-40,"Ascariasis, unspecified",198
+18-40,"Pre-existing diabetes mellitus, Type 1, in pregnancy",132
+41-60,"Toxic liver disease with hepatitis, not elsewhere classified",297
+41-60,Cardiac arrest,231
+41-60,Hypertensive heart and renal disease,198
+41-60,Gas gangrene,132
+41-60,"Monoarthritis, not elsewhere classified",99
+60+,"Unspecified diabetes mellitus, with unspecified complications",330
+60+,Cholangitis,132
+60+,"Latent syphilis, unspecified as early or late",132
+60+,Diverticulosis of large intestine with perforation and abscess,132
+60+,"Malignant neoplasm of uterine adnexa, unspecified",132
