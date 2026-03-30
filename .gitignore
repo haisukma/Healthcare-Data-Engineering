@@ -1,2 +1,3 @@
 sql/olap/*.sql
 sql/oltp/*.sql
+.DS_Store
